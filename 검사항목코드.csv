@@ -1,0 +1,2396 @@
+﻿PARA_CD,PARA_NM
+02918,Length1
+05537,Aparencia
+15607,width1
+21768,HEIGHT
+A0099,output voltage 1
+A0100,sedimentation test
+A0101,carburized hardening layer test
+A0102,clear
+A0103,penetration strength
+A0104,current test
+A0105,film adhesiveness(VCM)
+A0106,load(maximum load strength)/ Diagonal
+A0107,load test
+A0108,fluorescent whitening agent
+A0109,hose bending test
+A0110,circuit check
+A0111,rotational strength
+A0112,rotational direction
+A0113,rotary noise
+A0114,rotational speed
+A0115,number of turns
+A0116,rotational precision
+A0117,moisture content
+A0118,shrinkage rate
+A0119,forward voltage
+A0120,reliability test
+A0121,elongation
+A0122,elongation rate
+A0123,deep hardness test
+A0124,zinc bond
+A0125,zinc adhesion test
+A0126,alkaline loading
+A0127,compressive strength
+A0128,Ericsson
+A0129,reverse voltage
+A0130,reverse current
+A0131,combustibility
+A0132,combustion test
+A0133,continuous durability test
+A0134,continuous conduction test
+A0135,hot wire resistance
+A0136,thermal constant
+A0137,thermal stability test
+A0138,thermal shock
+A0139,thermal shock  test
+A0140,salt water test
+A0141,temperature cycle
+A0142,temperature rise test
+A0143,hot water CYCLE test
+A0144,hot water pressure test
+A0145,flow rate
+A0146,holding power/ destructive power
+A0147,mobility
+A0148,inverse flow test
+A0149,abnormal restraint history
+A0150,abnormal noise
+A0151,abnormal temperature test
+A0152,dislocation test
+A0153,working force
+A0154,residual moisture / moisture content
+A0155,residual oil / foreign matter
+A0156,residual charge high pressure
+A0157,low temperature operation test
+A0158,low temperature storage test
+A0159,low voltage switch
+A0160,resistance
+A0161,resistance value
+A0162,electrical characteristic
+A0163,electrical operating characteristic
+A0164,insulation pressure
+A0165,insulation resistance
+A0166,contact open  shut voltage test
+A0167,contact stability
+A0168,contact resistance
+A0169,bond strength(packaging BOX)
+A0170,joint
+A0171,rated current
+A0172,capacitance
+A0173,electrostatic inductance
+A0174,vibration test
+A0175,desorption life test
+A0176,additive transition
+A0177,additive transition evaluation method
+A0178,adhesion test
+A0179,fastening force test
+A0180,maximum surface temperature test
+A0181,high temperature BIAS test
+A0182,high temperature and high humidity neglect
+A0183,high temperature and high humidity test
+A0184,high temperature test
+A0185,high temperature storage test
+A0186,nominal resistance
+A0187,overload LOCK
+A0188,overvoltage test
+A0189,starting pressure
+A0190,airtight test
+A0191,other chemical resistance(chemical resistance)
+A0192,other chemical resistance(butter/ soy sauce/ vinegar)
+A0193,Climate Environment and Packaging Environment
+A0194,soldering state
+A0195,soldering wettability test
+A0196,Refrigerated Hot Water Impact Test
+A0197,leakage current
+A0198,freezing test
+A0199,concentric depth
+A0200,motion characteristic
+A0201,action-time
+A0202,operation-induced return voltage
+A0203,operating power
+A0204,operating state
+A0205,motion test
+A0206,operating voltage
+A0207,operation point
+A0208,operation axis(CAM)
+A0209,operating characteristic
+A0210,microstructure test
+A0211,clogging
+A0212,curvature test
+A0213,head extension test
+A0214,head hitting test
+A0215,plane vibration(top and bottom)
+A0216,plane vibration(left and right)
+A0217,non-toxic
+A0218,no load loss
+A0219,load-free current
+A0220,load-free number of turns
+A0221,no load input
+A0222,no load current
+A0223,load-free current voltage
+A0224,sealed test
+A0225,waterproof Connector test
+A0226,banding test
+A0227,weight coke test
+A0228,guaranteed torque test
+A0229,guaranteed load test
+A0230,hardness adhesion of protective vinyl
+A0231,protective vinyl transition
+A0232,Protective Vinyl Cutting Test
+A0233,return force
+A0234,composite corrosion test(CCT)
+A0235,abnormal operation test
+A0236,insertion /drawing power
+A0237,phase resistance
+A0238,room temperature resistance
+A0239,performance test
+A0240,detergent water test
+A0241,loss
+A0242,nail test
+A0243,life
+A0244,life test
+A0245,Fan-Dry
+A0246,GAS concentration
+A0247,Hall delay Time
+A0248,Hall on time
+A0249,ICE
+A0250,IGT2
+A0251,IGT3
+A0252,IMPACT
+A0253,Ionic Test
+A0254,Key Stroke
+A0255,key protrusion
+A0256,key destructive force
+A0257,LATCH life test
+A0258,Leakage
+A0259,Lever operability test
+A0260,LOCKING / UNLOCKING
+A0261,LOCK operation time
+A0262,MAGNETIC GAUSS
+A0263,Mascot separation force
+A0264,Motor Induction
+A0265,motor noise
+A0266,Mount distance
+A0267,Mount inner diameter
+A0268,Mount step
+A0269,Neckling's gynecological tension
+A0270,O Common Operating Characteristics
+A0271,OIL viscosity
+A0272,P.C.T test
+A0273,PIN HOLE test
+A0274,PROTECTOR paragraph
+A0275,PTC-HEATER resistance
+A0276,PTC-Heater power consumption
+A0277,Pulley Run Out
+A0278,Pulley Island Mount Street
+A0279,RIMPING section
+A0280,Seaming Gynecological Tension
+A0281,Slip fracture test
+A0282,Spin test
+A0283,SPRING test
+A0284,STEP-STRESS Durability
+A0285,STOP intensity
+A0286,TAPE bond strength
+A0287,Tracking
+A0288,Tracking Test
+A0289,UL-94 VW-1 test
+A0290,UNLOCK operation time
+A0291,VCE
+A0292,VDRM
+A0293,VGE(OFF)
+A0294,VRRM
+A0295,Water Hammer 
+A0296,Wire Insulation Degradation Test
+A0297,wire tensile strength
+A0298,pitch drop
+A0299,strength
+A0300,forced opening
+A0301,open power
+A0302,open / shut test
+A0303,roughness
+A0304,drying test
+A0305,hardness
+A0306,hardness(Rockwell/ Vickers)
+A0307,rubber adhesion
+A0308,high temperature high humidity(moisture resistance)
+A0309,post process
+A0310,absorptiveness
+A0311,suction force
+A0312,Bluetooth communication distance test
+A0313,Bobbin�� TRACKING
+A0314,Bracket Rotation Torque
+A0315,BREAKDOWN VOLTAGE
+A0316,Bush Destruction Torque
+A0317,Bush resistance value
+A0318,BUTTON scavenging strength
+A0319,CASS
+A0320,CLAD rate
+A0321,COIL resistance
+A0322,COIL/PTCresistance
+A0323,CONTROL OUT separation force
+A0324,core lamination
+A0325,CRIMP WIDTH / HEIGHT
+A0326,CROSS CUT
+A0327,CUT OFF TIME
+A0328,DAMPING power
+A0329,DISPLAY light test
+A0330,smell test
+A0331,damper ALT test
+A0332,plating thickness
+A0333,coating(plating)/Thickness/ Thickness Thickness/ Coating Film
+A0334,film thickness
+A0335,coating Specifications
+A0336,conductor heating discoloration test
+A0337,moving distance
+A0338,moving distance before and after operation
+A0339,operating distance
+A0340,motion check
+A0341,operating temperature test
+A0342,density
+A0343,density / magnification
+A0344,adhesiveness
+A0345,attachment
+A0346,decomposition test
+A0347,brightness
+A0348,boiling number
+A0349,specific gravity
+A0350,torsion test
+A0351,torsional strength test
+A0352,injection strength test
+A0353,color
+A0354,chrominance
+A0355,power consumption
+A0356,consumption current
+A0357,power consumption / consumption current
+A0358,noise
+A0359,noise test
+A0360,water level
+A0361,annual rate/ Elongation
+A0362,pencil hardness
+A0363,hot hold test
+A0364,opening power
+A0365,capacity
+A0366,insulation distance
+A0367,contact opening and closing time
+A0368,adhesive force / force
+A0369,contact interval
+A0370,contact pressure
+A0371,contact misalignment
+A0372,adhesive force
+A0373,bond strength
+A0374,illuminance measurement
+A0375,assembly state
+A0376,operating power
+A0377,Weight.
+A0378,weight BALANCE
+A0379,direct current resistance
+A0380,linear characteristic
+A0381,vibration noise
+A0382,dimension
+A0383,code fixing strength
+A0384,caulking force
+A0385,fracture strength
+A0386,fracture test
+A0387,crushing test
+A0388,rupture strength
+A0389,flatness
+A0390,flatness 
+A0391,packaging Box surface color
+A0392,Bond Strength of BOX Tape Packaging
+A0393,packaging BOX attachment
+A0394,pavement box joint
+A0395,surface load staining test
+A0396,surface hardness test
+A0397,coating thickness
+A0398,gloss
+A0399,bending strength
+A0400,restraint test
+A0401,structure
+A0402,flexural strength
+A0403,flexural test(bendability)
+A0404,bending strength test
+A0405,winding resistance
+A0406,metal corrosion resistance
+A0407,mechanical properties
+A0408,oil resistance
+A0409,oil resistance test
+A0410,infiltration test
+A0411,Ultraviolet rays resistance
+A0412,ultraviolet resistance
+A0413,internal voltage
+A0414,internal voltage check
+A0415,vibration resistance test
+A0416,shock  resistance test
+A0417,crack resistance
+A0418,cold resistance
+A0419,smell  resistance/ Weatherability test
+A0420,aging test
+A0421,aging test(adhesive force)
+A0422,leakage
+A0423,Leakage./Sealing test/SPILL
+A0424,leakage test
+A0425,terminal
+A0426,terminal strength
+A0427,tensile strength of terminal
+A0428,closed force
+A0429,�밢���� ����
+A0430,mechanical performance
+A0431,screw stitching test
+A0432,drop test
+A0433,flame retardancy
+A0434,flame retardant test(combustion test)
+A0435,flame retardant test
+A0436,liver resistance
+A0437,internal diameter dimension(great)
+A0438,internal diameter dimension(a small group)
+A0439,Optical Resistance to Ultraviolet Irradiation
+A0440,light resistance test
+A0441,durability test
+A0442,falling test
+A0443,durability
+A0444,abrasion resistance
+A0445,abrasion resistance(friction)
+A0446,butter resistance
+A0447,anisotropic/Boiling water
+A0448,acid resistance
+A0449,detergent resistance
+A0450,damage resistance/ burned performance
+A0451,water resistance
+A0452,water pressure test
+A0453,moisture resistance test
+A0454,corrosion resistance(salt radish)
+A0455,corrosion resistance test
+A0456,vinegar resistance
+A0457,alkaline resistance
+A0458,alcohol resistance
+A0459,pressure resistance/water pressure  resistance
+A0460,chemical resistance
+A0461,chemical resistance(Film steel sheet)
+A0462,heat resistant vibration test
+A0463,heat resistance
+A0464,heat resistance test
+A0465,heat resistance adhesiveness
+A0466,heat-resistant shock
+A0467,heat resistance bathtub/Boiling water reactor
+A0468,heat resistance bathtub
+A0469,pollution resistance
+A0470,content test/ Contentability
+A0471,content formulation/Solvent resistance
+A0472,weld tension
+A0473,hazardous substance analysis
+A0474,fusion
+A0475,fusion degree(EPS)
+A0476,speech recognition rate test
+A0477,printing wear/ printing abrasion
+A0478,tensile strength
+A0479,Tensile Strength Along with Terminal Tensile? - Yield Point!!
+A0480,tensile force
+A0481,tensile load
+A0482,magnetism
+A0483,magnetism(Film steel sheet)
+A0484,magnetic flux density / force
+A0485,residual sulfur Spot evaluation method
+A0486,material analysis
+A0487,material
+A0488,low temperature stability
+A0489,low temperature open / shut test
+A0490,low temperature return force
+A0491,electrical life test
+A0492,voltage fluctuation rate
+A0493,voltage deviation
+A0494,bending
+A0495,component assembly state
+A0496,appearance
+A0497,melt characteristic
+A0498,electronic assembly
+A0499,shock
+A0500,impact test
+A5680,External diameter 
+A5773,Dimension 1
+A5774,Dimension 2
+A5779,CTF A
+A5780,CTF B
+A5781,CTF C
+Z0466,
+Z0467,
+Z0468,
+Z0469,
+Z0470,
+Z0471,
+Z0580,
+Z0581,
+Z0582,
+Z0583,
+Z0584,
+Z0585,
+Z0586,
+Z0587,
+Z0588,
+Z0589,
+Z0590,
+Z0591,
+Z0592,
+Z0593,
+Z0594,
+Z0595,
+Z0596,
+Z0597,
+Z0598,
+Z0599,
+Z0600,
+Z0601,
+Z0602,
+Z0625,Flashing / Short mold / Dirty / Over cuting / Packing /Label 
+Z0653,Dimension 3
+Z0654,Dimension 4
+Z0655,Dimension 5
+Z0656,Dimension 6
+Z0657,Weight
+Z0658,Gap
+Z0659,Step 1
+Z0660,Step 2
+Z0685,Gap
+Z0689,appearance(no printing damage)
+Z0696,Function OK or Not
+Z0697,Packing method
+Z0698,Length
+Z0699,Width
+Z0700,Height
+Z0701,thickness
+Z0709,SCREW-TAPPING
+Z0729,dimension
+Z0818,dimension
+Z0819,dimension
+Z0820,dimension5
+Z0886,confirm according to regulations
+Z0894,Flatness
+Z0895,CTF A
+Z0896,CTF B
+Z0897,CTF C
+Z0898,CTF D
+Z0922,No-load power
+Z0923,Load current
+Z0924,Load power
+Z0929,Additional qualifications resistance
+Z0930,Method the resistance
+Z0931,Fastening force
+Z0932,Terminal plug pieces
+Z0933,vibration
+Z0946,dimension6
+Z0947,dimension
+Z0948,dimension
+Z0949,dimension
+Z0950,dimension
+Z0951,dimension
+Z0952,dimension
+Z0953,dimension
+Z0954,dimension
+Z0955,dimension
+Z0956,dimension
+Z0957,dimension
+Z0958,dimension
+Z0959,dimension
+Z0960,dimension
+Z1131,Outer diameter
+Z1132,The inner diameter
+Z1133,highly
+Z1134,highly 1
+Z1135,higher 2
+Z1136,Outer diameter to beat
+Z1137,Pull out the output
+Z1138,Conductor resistance
+Z1139,Withstand voltage
+Z1140,Insulation resistance
+Z1141,appearance
+Z1223,S.D
+Z1224,Magnet power off
+Z1260,Vavle High pressure movement
+Z1261,Vavle Low Pressure movement
+Z1262,OD decrease ratio
+Z1269,CTF E
+Z1270,CTF F
+Z1273,Suction
+Z1422,tensile stress1
+Z1423,tensile stress2
+Z1424,tensile stress3
+Z1425,tensile stress4
+Z1426,tensile stress5
+Z1470,Charging -4.2 KV 
+Z1471,Charging -8.50 KV
+Z1472,dimension OD 1
+Z1473,dimension OD 2
+Z1474,OD 3
+Z1485,ID
+Z1486,ID 1
+Z1487,ID 2
+Z1551,Output Voltage 15V
+Z1552,Output Voltage 12V
+Z1553,Output Voltage 5V
+Z1557,Capillary Outer diameter
+Z1558,offset
+Z1559,upper transit
+Z1560,lower branch
+Z1561,angle
+Z1565,internal leakage
+Z1566,sealing experiment
+Z1590,Check tape position
+Z1591,Sponge and Part must be Flat / Smooth
+Z1623,K
+Z1624,1
+Z1625,SP
+Z1636,Output Voltage 2
+Z1637,Output Current
+Z1711,Number 2
+Z1725,Cutting Point
+Z1812,Bursting Test
+Z1838,Rail pull
+Z1848,Silk Screen 
+Z1898,Thickness variation
+Z1899,Inductance
+Z1900,Temp -32 C test
+Z1901,Test temp -32 C
+Z1902,Test temp 3 C
+Z1903,Test temp 23 C
+Z1905,CTF G
+Z1906,CTF H
+Z1907,Insulation resistance more 100MOhm 500Vdc
+Z1908,Withstanding Voltage AC 1500V/60s Cut-off 5mA
+Z1909,RPM
+Z1911,FG Signal 
+Z1912,Slip Releasing Force
+Z1913,TAKE OFF RAIL FORCE Inner & Middle ( Open )
+Z1914,TAKE OFF RAIL FORCE Inner & Middle ( Close )
+Z1915,TAKE OFF RAIL FORCE Middle & Outer ( Close )
+Z1916,TAKE OFF RAIL FORCE Middle & Outer ( Open )
+Z1923,heatsink sensor
+Z1924,Top sensor
+Z1925,Opening And Closing Force
+Z1968,Missing part
+Z1969,Nitrogen retention pressure
+Z1992,Circuit Diagram(applying an electric current/ No wrong wiring)
+Z1993,Terminals Pressure
+Z1994,Housing Desorption
+Z1997,Service Valve 1/4 R410
+Z1998,Length 2
+Z1999,Length 3
+Z2018,Electrical Specification
+Z2021,Pipe discharge (OD)
+Z2022,Pipe suction (OD)
+Z2023,Pipe process (OD)
+Z2024,Nitrogen gass inside
+Z2025,Withstanding AC1800V/Sec  Cut-off  2 mA
+Z2026,Insulation
+Z2037,Roundness
+Z2038,Concentricity
+Z2141,Tube Capillary 3 rev.
+Z2144,S  WATER HEIGHT
+Z2145,S  WASHER HEIGHT
+Z2146,WASHING TORQUE
+Z2147,SPIN TORQUE
+Z2148,COUPLING GAP
+Z2149,S  WASHER FLATNESS
+Z2150,SHAFT LOW END PLAY
+Z2151,Appearance Insp. Item condition assembly point /Rusting /Broken /Deformation
+Z2209,closeness
+Z2211,No coloring
+Z2212,No recycle and no mold release agent 
+Z2213,No scrap using 
+Z2220,Visual 
+Z2221,Assembly
+Z2245,big
+Z2246,small
+Z2247,big size
+Z2248,Collar height
+Z2249,Collar diameter
+Z2250,floor plan 
+Z2251,size37
+Z2252,Wire Length
+Z2302,Knob push force
+Z2303,Knob push distance
+Z2304,Screen tap test
+Z2324,Intemal Voltage(AC1500V-1mA-1min)
+Z2325,Insuiation Resistance(DC500V-100-1min)
+Z2326,segment gap
+Z2327,Integrated position
+Z2328,slot width
+Z2345,Clip lock 29 Ea
+Z2346,Clip lock 27 Ea
+Z2347,CTF I
+Z2348,CTF J
+Z2350,Load RPM
+Z2351,Starting voltage
+Z2413,COTA A
+Z2414,COTA B
+Z2420,Tape spec 3M 4930
+Z2421,Software version 0x44
+Z2422,Software version 0x54
+Z2423,Software version 0x11
+Z2424,5mm pin not operating
+Z2425,9mm pin operating
+Z2444,Operation test
+Z2445,S/T
+Z2470,The poor
+Z2471,perpendicularity
+Z2472,screw gauge
+Z2524,dimension13
+Z2525, dimension7
+Z2526, dimension8
+Z2527, dimension9
+Z2528, dimension10
+Z2529,dimension11
+Z2530,dimension12
+Z2531,visual inspection
+Z2532,dimension19
+Z2533,size30
+Z2536,dimension16
+Z2541,size1
+Z2562,Compression test
+Z2591,Version check
+Z2700,Apperance [Burr/Scratches/Oxidation/discolouration/Crack] not allowed
+Z2702,Core Size (A)
+Z2706,Gap 2
+Z2713,Gap_2
+Z2714,PBA code check
+Z2715,CTQ A
+Z2716,CTQ B
+Z2717,CTQ C
+Z2718,CTQ D
+Z2719,Sharp edge
+Z2732,internal voltage (DC500V-1min-100mA)
+Z2770,Rev. 1 
+Z2771,Rev. 2
+Z2772,Rev. 3 
+Z2773,Rev. 4 
+Z2774,Rev. 5 
+Z2775,Rev. 7 
+Z2776,Rev. 8 
+Z2777,Rev. 9 
+Z2778,Rev. 10 
+Z2779,Rev. 11 
+Z2780,Rev. 12 
+Z2781,Rev. 13 
+Z2782,Rev. 14 
+Z2783,Rev. 15 
+Z2784,Rev. 16
+Z2785,Rev. 17
+Z2786,Rev. 18
+Z2795,Rev. 19
+Z2796,Rev. 20
+Z2797,Rev. 21
+Z2798,Rev. 22
+Z2799,Rev. 23
+Z2800,Rev. 24
+Z2801,Rev. 25
+Z2802,Rev. 26
+Z2803,Rev. 27
+Z2804,Rev. 28
+Z2805,Rev. 29
+Z2806,Rev. 30
+Z2807,Rev. 6
+Z2809,construction
+Z2812,Crimping state
+Z2986,Inverter 1 power
+Z2987,Inverter 2 power
+Z2988,Inverter 1 Resonant Current
+Z2989,Inverter 2 Resonant Current
+Z3026,Rev. 0
+Z3047,dimension18
+Z3048,dimension23
+Z3049,dimension25
+Z3104,Rev. 0 
+Z3105,dimension41
+Z3106,dimension49
+Z3107,dimension52
+Z3150,Pop strength
+Z3201,Drivers
+Z3203,Harness-Earth Length
+Z3204,Harness-Signal Length
+Z3205,Harness-Power Length
+Z3206,Assembly condition
+Z3313,height 1
+Z3314,height 2
+Z3315,height 3
+Z3330,Air leak check
+Z3331,Nozzle spec
+Z3332,Early Resistance
+Z3333,Motion Time
+Z3334,Return Time 
+Z3335,PRESS
+Z3336,dislocation
+Z3351,Conductor diameter
+Z3352,Complete diameter
+Z3458,Depth
+Z3459,Boss to boss
+Z3461,width-back
+Z3462,width-front
+Z3463,Width2
+Z3465,Width3
+Z3466,Width4
+Z3467,Hole
+Z3492,mark confirm
+Z3494,cota c - cav 1
+Z3495,Wire assembly to primary s/w & monitor s/w as per sample approval. Not loose and terminal damage.
+Z3496,butt fusinon
+Z3501,Electric test circuit
+Z3539,Wire assembly to primary s/w & monitor s/w as per sample approval. Not loose and terminal damage 1
+Z3540,Electric Circuit Test
+Z3541,Electric Circuit Test 1
+Z3549,wire length ( CTF A )
+Z3550,Wire length ( CTF B )
+Z3551,Terminal strength test AWG18 or bigger (15sec/8KgF)
+Z3552,Terminal strength test AWG20 or smaller (15sec/4.5KgF)
+Z3573,Tact Switch force
+Z3574,Urethan Height
+Z3575,Conformal Region
+Z3576,Function test
+Z3577,Guide LED
+Z3578,WIDTH - TOP
+Z3579,WIDTH - MIDDLE
+Z3580,WIDTH - BOTTOM
+Z3607,Depth 2
+Z3634,Intemal Voltage(3.8/0.5/5)
+Z3637,voltage breakdown test
+Z3903,Part weight
+Z3993,Dimension 7
+Z3994,Dimension 8
+Z3995,Dimension 9
+Z3997,Funtion test (Motor fan)
+Z3998,Function test (Motor fan)
+Z4013,logo confirmation
+Z4058,Primary Interlock S/W H.V. Trans
+Z4059,Primary Interlock S/W H.V. Trans 1
+Z4060,Primary Interlock S/W Monitor Interlock S/W
+Z4061,Primary Interlock S/W Monitor Interlock S/W 1
+Z4149,Tapping M12
+Z4150,Jig Test Function
+Z4151,solder short
+Z4152,micom version
+Z4153,over bond
+Z4154,Outer threads
+Z4259,Function test [Motor fan]
+Z4271,Terminal strength test AWG18 or bigger (15sec/8KgF) 1
+Z4272,Terminal strength test AWG20 or smaller (15sec/4.5KgF) 1
+Z4273,Filter pulling force
+Z4277,Flow rate test
+Z4278,Height Deviation
+Z4279,Handle~body
+Z4280,Body Width
+Z4281,Body Width 1
+Z4291,mi tie xing
+Z4292,rouruanxing
+Z4293,pin hole
+Z4300,Suction Pipe Length
+Z4301,Capillary Length
+Z4302,Soldering Length
+Z4303,Cut/Crack/Burr/Cap Missing/AL Tape Tearing Not Allowed & Profile as per Drawing
+Z4352,High Voltage [1800V@1SEC <1.5mA ]
+Z4353,Insulation Resistance [DC500V @1sec More 100 Mohm]
+Z4354,Rust/Pin Bend/Paint Crack/Tubing Bend/Bracket bend not allowed
+Z4355,Operation Check
+Z4362,Version Micom. 151111
+Z4363,Main Winding Resistance
+Z4364,Sub Winding Resistance
+Z4365,Operate [LED Display show ]Segment error /   No display
+Z4366,Emission distance Horizontal More than 10 M (Straight)
+Z4367,Label E-Pass Scan OK (23 Digit )
+Z4368,Version Micom : 101230
+Z4376,Rev. 
+Z4382,Coil Resistance(R+B)279-321Ohm
+Z4387,WithstandingVoltage AC 1500V/1min 0.5 mA
+Z4388,InsulationResistance More Than 100M 500VDC 1Sec
+Z4389,Power Rating
+Z4390,Resistance cold
+Z4391,InsulationResistance More Than 100M 500VDC
+Z4392,Label (Stardard)
+Z4395,Intemal Voltage(AC1500V-10mA-1min)
+Z4396,Insuiation Resistance(DC500V-2G-1-min)
+Z4399,Distance
+Z4400,Distance 1
+Z4401,Distance 2
+Z4402,Distance 3
+Z4403, Choke Gap
+Z4404, Choke Gap 1
+Z4405, Choke Height
+Z4406, Choke Height 1
+Z4440,Blade Height
+Z4441,Blade Height 1
+Z4442,Blade Height 2
+Z4443,Bead Height
+Z4444,Hole Diameter
+Z4445,Length4
+Z4446,Length5
+Z4447,Height 4
+Z4448,Height 5
+Z4449,Thickness 1
+Z4450,Thickness 2
+Z4451,Thickness 3
+Z4495,MARKING STANDARD
+Z4496,Height 6
+Z4497,Height 7
+Z4498,Height 8
+Z4499,Height 9
+Z4500,Height 10
+Z4501,Height 11
+Z4502,Height 12
+Z4503,Height 13
+Z4504,Height 14
+Z4505,Height 15
+Z4506,Height 16
+Z4507,Height 17
+Z4508,Height 18
+Z4509,Height 19
+Z4510,Height 20
+Z4511,Height 21
+Z4512,Height 22
+Z4513,inner Diameter 1
+Z4514,inner Diameter 2
+Z4530,Level distance moving
+Z4531,Operating time
+Z4532,Coil resistance motor
+Z4554,Gap C-Fan & Back Body
+Z4555,N2 inside Evap check (Pinch-off)
+Z4556,N2 inside Evap check (Rubber cap)
+Z4557,Motor operation
+Z4558,Assembly condition (Component part)
+Z4559,Appearance (Dirty/ Deform/ Broken/ etc.)
+Z4560,Packing Component Part ( 5 EA)
+Z4561,Packing Component Part ( 6 EA )
+Z4562,Packing Component Part ( 7 EA )
+Z4563,Packing Component Part ( 8 EA )
+Z4564,Packing Component Part ( 9 EA )
+Z4565,Packing Component Part ( 10 EA )
+Z4566,Packing Condition ( Sealing )
+Z4567,Manual & Label Rivision ( Update )
+Z4568,Appearance ( Packing / Silk Screen / Dirty / etc. )
+Z4570,Packing Component Part ( 11 EA )
+Z4571,Packing Component Part ( 12 EA )
+Z4572,Packing Component Part ( 13 EA )
+Z4578,OPERATION VOLTAGE
+Z4579,FILTER BREAKAWAY FORCE
+Z4584,BEMF
+Z4605,INDUCTANCE(@1KHz)_1-3
+Z4606,INDUCTANCE(@1KHz)_2-4
+Z4607,Insulation more 300M (DC500V/1MIN) 
+Z4608,Withstand voltage(AC1500V/1MIN) 5 mA
+Z4631,Frequency
+Z4636,Appearance ( No flowmarks/oil mark/scratches/overcut/short shot/spots/streaks/weld line/excess mold/flashes/ discoloration/deformation etc.)
+Z4637,Motor Movement ( No Noise )
+Z4664,High of ass'y balance
+Z4665,Diameter of basket bowl
+Z4666,Beside balance 
+Z4667,Topside balance
+Z4668,Gap balance with basket wrapper
+Z4669,Step basket bowl with ass'y guide w.f
+Z4670,Hi pot (3.0kV 5mA 1m)
+Z4671,IR more than 1MOhm 500VDC 1m
+Z4686,Stator OD
+Z4687,Rotor ID
+Z4688,Rotor Runout ID
+Z4689,Rotor Runout Bottom
+Z4690,Resistance coil
+Z4691,InitialONPoint
+Z4692,(PL) Withsatanding AC1800/sec 5mA
+Z4693,(PL) Insulation more then 100 MOhm 500Vdc
+Z4694,Appearance (Lebel/burr/scratch/crack/broken/bending/ETC)
+Z4709,ResistanceMain
+Z4710,ResistanceSub
+Z4711,No load watt
+Z4712,StartingVoltage
+Z4713,No load RPM
+Z4714,A-Size
+Z4715,B-Size
+Z4716,C-Size
+Z4717,Shaft OD
+Z4718,End-Play
+Z4719,InsulationResistance More than 100(DC 500V)
+Z4720,WithstandVoltageAC 1800V(1sec)/ Cut-Off Current 5mA
+Z4751,ASSY DAMPING FORCE
+Z4752,INSTALLATION LENGTH
+Z4753,BAR DIAMETER
+Z4754,BENDING ANGLE
+Z4757,Charging  5.5 KV
+Z4775,PRESSDIMENSION(WIDTH)
+Z4776,PRESSDIMENSION(THICKNESS)
+Z4777,PRESSDIMENSION(HEIGHT)
+Z4778,Diameter A
+Z4779,Diameter B
+Z4780,Length C
+Z4781,Diameter D
+Z4782,Hardness Rubber
+Z4797,Insuiation Resistance(DC500V-100-1sec)
+Z4798,internal voltage(AC1800V-1sec-1.5mA)
+Z4799,internal voltage(AC1800V-1sec-1.0mA)
+Z4801,InletOuter diameter dimension
+Z4802,Initial frequency
+Z4803,Inlet Outer Dimension
+Z4804,Air inlet degree  0
+Z4805,Hose length
+Z4806,Hose Release Force
+Z4807,Sponge position length
+Z4808,1Water level (mmH2O)
+Z4809,2Water level (mmH2O)
+Z4810,3Water level (mmH2O)
+Z4811,4Water level (mmH2O)
+Z4812,5Water level (mmH2O)
+Z4813,6Water level (mmH2O)
+Z4814,1Frequency (KHz)
+Z4815,2Frequency (KHz)
+Z4816,3Frequency (KHz)
+Z4817,4Frequency (KHz)
+Z4818,5Frequency (KHz)
+Z4819,6Frequency (KHz)
+Z4821,OPERATION VOLTAGE POWER 110 V
+Z4822,OPERATION VOLTAGE POWER 220 V
+Z4823,VALVE COIL RESISTANCE
+Z4824,FLOW RATE (L/min)
+Z4825,CONTROL-OUT BREAKAWY FORCE 
+Z4826,LEAK TEST
+Z4827,FULL FLOW RATE (L/min)
+Z4828,RIN FLOW RATE (L/min)
+Z4829,HEIGHT FLOW RATE (L/min)
+Z4830,ASSEMBLY SIZE DIMENSION
+Z4831,Wifi wire presence
+Z4854,High Voltage @ 1500V <0.5mA for 1 min
+Z4901,Current
+Z4902,Power
+Z4903,Banding dimension
+Z4904,Sheath width
+Z4905,Sheath thickness
+Z4906,Gasket Rubber thickness
+Z4907,Base voltage @ 150 RPM 25 [V]
+Z4908,Coil resistance @25[]
+Z4909,Rotor tooth height [mm]
+Z4910,Rotor tooth width [mm]
+Z4911,Air Gap  [mm]
+Z4930,WASHER SPECIAL Height
+Z4931,SEAL WATER Height
+Z4932,SENSOR GAP
+Z5077,Thickness1
+Z5104,NO1
+Z5105,NO2
+Z5106,NO3
+Z5107,NO4
+Z5108,NO5
+Z5109,NO6
+Z5110,NO7
+Z5111,NO8
+Z5112,NO9
+Z5113,NO10
+Z5114,NO11
+Z5115,NO12
+Z5116,NO13
+Z5117,NO14
+Z5118,NO15
+Z5119,Total Thickness
+Z5184,STROKE  Protrusion amount
+Z5231,Br
+Z5232,bHC
+Z5233,iHC
+Z5234,BHmax
+Z5235,Monitor interlock s/w - primary interlock s/w
+Z5236,Monitor interlock s/w - primary interlock s/w 1
+Z5260,key door hole to hole length
+Z5261,dimension ( between 2 screw hole)
+Z5262,body latch length
+Z5263,body latch free from flashing/ short mould/ sink/mark/crack/no deformation/ sharp edge/ single part same part list
+Z5264,Glass Length
+Z5265,Glass Width
+Z5266,Glass Thickness
+Z5267,Appearance Glass (Dirty/black dot/white dot/dent/scratch/stain mark water/stain/dirty/broken/deform/etc.)
+Z5277,Fan motor (120V)
+Z5278,Monitor S/W (COM)
+Z5300,Motor fan (120V)-monitor S/W
+Z5301,Monitor S/W(COM)-Pri S/W
+Z5464,23.ecdysis length
+Z5468,resistance2
+Z5469,resistance3
+Z5470,Width A
+Z5471,Width B
+Z5472,Width C
+Z5473,Length D
+Z5490,out 
+Z5491,inner
+Z5492,inner postion
+Z5493,out position
+Z5494,out
+Z5495,out 11
+Z5501,temperature
+Z5502,pressure
+Z5607,Bore
+Z5608,Leg
+Z5609,Leg height
+Z5610,Bore height
+Z5611,Face 
+Z5612,BRG height
+Z5613,distance between aixs
+Z5614,Bore Suface screw hole postion
+Z5615,Leg screw hole postion
+Z5616,Bore  Size
+Z5617,BRG  Size
+Z5618,Muffler A height
+Z5619,Muffler B 
+Z5620,Bore Roundness
+Z5621,Bore roughness
+Z5622,BRG roundness
+Z5623,BRG roughness
+Z5624,Face Roughness
+Z5625,Bore stage
+Z5626,Bore depth
+Z5627,M6 X 1.0 
+Z5628,M4.5 x 0.75 
+Z5629,Wet / Bulging/ Fusion / Flash/ Ejector excess / over cut / dirty/ shrinkage / assy as per approval
+Z5635,Housing Push
+Z5636,Housing Pull-off
+Z5637,Magmate -
+Z5638,Receptacle -
+Z5639,ecdysis length
+Z5640,Magnate(CH)
+Z5641,Magnate(CW)
+Z5642,Receptacle(CH)
+Z5643,Receptacle(CW)
+Z5644,Housing -
+Z5685,Water Leakage test
+Z5689,Pulling force case detergent
+Z5690,Gap case lid TC
+Z5691,Gap lid TC
+Z5709,Software 0x21
+Z5781,Main Oil Hole 
+Z5782,Main  Hole 
+Z5783, Oil Hole 
+Z5784,Eccentricity
+Z5785,Minor Diameter
+Z5786,Angular Measure
+Z5787,Main Full Diameter
+Z5788,Surface Roughness
+Z5789,Eccentricity Full diameter 
+Z5790,Main  Length
+Z5791,Wall Thickness
+Z5794,Eccentricity Length
+Z5795,Pick Up Diameter
+Z5796,Pick Up Surface Roughness
+Z5797,Pick Up Concentricity 
+Z5798,Torque control 
+Z5799,Ass'y Length
+Z5800,Distance to E-ring
+Z5801,Shaft Length
+Z5802,Material & Grade should be OK as per approval
+Z5881,Inner diameter Hose
+Z5882,External diameter Hose
+Z5883,Length Hose
+Z5916,PCB Width
+Z5917,PCB Height
+Z5918,PCB Length
+Z5919,PCB Curve
+Z5922,Resistance test
+Z5923,Withstanding test
+Z5924,Insulation resistance test
+Z5925,Packing control
+Z5926,Foreign material inside
+Z5927,N2 Check
+Z5928,Insulation Resistance [500VDC @2sec LSL100M]
+Z5929,Withstanding [AC1800V @1sec USL 2mA]
+Z5932,Bimetal spec mark
+Z5933,low voltage action
+Z5947,(PL) Broken test by manual press
+Z5948,(PL) Combustion test
+Z5949,(PL) Drain Hose leak check
+Z5950,(PL) Flash & Clogged water drain check
+Z5981,Insulation 
+Z5984,(PL) Cross section wire
+Z6002,Fluoresence test
+Z6003,(PL) Hose leak test
+Z6006,fuse cut off
+Z6008,Resistance test (Heater)
+Z6009,primary s/w - monitor s/w (com)
+Z6010,monitor s/w (no) -h.v trans(230v)
+Z6011,Contact resistance relay
+Z6048,PullingStroke
+Z6049,Return Time
+Z6050,PullingTime
+Z6051,Insulation resistance test 500 VDC :  More than 100 Mohm
+Z6052,Withstanding test 1/800 V/ 1sec : Less than 2.0 mA.
+Z6053,Foreign material inside pipe
+Z6057,Out diamter
+Z6061,D-Cut Length
+Z6062,Coil Resistance[M]
+Z6063,Coil Resistance[S]
+Z6064,(PL) Dieletric strenght 2 mA 1800V/sec 
+Z6065,L-L1
+Z6066,L1-N1
+Z6067,L-N
+Z6071,PL AL tape at wire-earth 
+Z6072,hudu
+Z6097,PL Drain hose no/cloged
+Z6099,PL Bending Not over 1.5 mm
+Z6181,dimension7
+Z6207,Hardness1
+Z6220,Coil resistance U-V
+Z6221,Coil resistance U-W
+Z6222,(PL) Dieletric strenght 2.5 mA 1500V/1 Min
+Z6223,(PL) Insulation Resistance  30 M/  DC 500 V
+Z6224,Sponge position / Smooth
+Z6228,Flame retardent[V0 grade]
+Z6232,CTF C 1
+Z6233,CTF C 2
+Z6234,CTF C 3
+Z6277,Appearance: No Have water inside / No Dirty Soldering/ Deformed/ No Burr/ Cutting mark capillary 
+Z6278,No Have Water inside pipe & Oil inside/ no Line Mark/ No Broken
+Z6279,No Line Mark/ No Broken
+Z6280,No Line Mark/ Heating pipe-tube not damage
+Z6281,No Line Mark/ Heating pipe-tube not damage/ No Burr 
+Z6282,Grinding smooth/ Shaft hinge status no lossen
+Z6283,Grinding smooth/ Shaft hinge status no lossen/ No burr
+Z6284,Shaft hinge status no lossen/ Checked Bending SEMI Part
+Z6285,Shaft hinge status no lossen/ No burr/ Screw no lossen/ Fully part
+Z6286,Have taro fully / No Missing part
+Z6306,Coil resistance U-V-W
+Z6307,N2 Pressure inside compressor check
+Z6311,Appearance LED/ Film take out/over lap/Scratch/Black dot/Dirty/broken /Other
+Z6312,Thickness after bending
+Z6313,Exposure of wire
+Z6314,Exposure of wire ( Hot melt )
+Z6315,pitch
+Z6365,Hole Alignment
+Z6366,Shaft assy valve rotation
+Z6405,Hole side-1
+Z6406,Hole side-2
+Z6407,Hole side-3
+Z6408,Rotational direction ( CW )
+Z6409,Rated input ( Watt )
+Z6410,Cross section
+Z6426,Assy as per approval / Drawing / Sample
+Z6427,Printing (As per approve INK & Tilt / missing / peeloff)
+Z6431,starting voltage3
+Z6435,Packing sticker specification should match requirement.
+Z6452,continuity test
+Z6508,Appearance RUBBER : Broken/deform/injection porr/Stain white mark/sink mark/Burr/Short mold
+Z6518,FELT THICKNESS
+Z6519,"PVC THICKNESS				"
+Z6520,"EVAR Thickness				"
+Z6521,Sewing distance
+Z6522,Top - Width
+Z6523,Top - Depth
+Z6524,Top - Height
+Z6525,Bottom - Width
+Z6526,Bottom - Depth
+Z6527,Bottom - Height
+Z6528,Weight Top
+Z6529,Weight Bottom
+Z6532,Withstanding AC 3000 V. / 1 Sec. / 5 mA.
+Z6533,Insulation > 100 Mohm. / 500 Vdc.
+Z6549,Resistance coil Main
+Z6550,Resistance coil Sub
+Z6551,No load Input power (W)
+Z6552,No load Input current  (A)
+Z6553,No load RPM (rpm)
+Z6554,A Size
+Z6555,B Size
+Z6556,Endplay
+Z6557,Air Gap
+Z6593,sealing power
+Z6595,Welding condition (nugget test)
+Z6596,Welding electrode condition
+Z6597,Coating condition (thickness/ discoloration/ crack)  
+Z6598,Electrical connection check
+Z6599,Damper Depth 1
+Z6600,Damper Depth 2
+Z6601,Damper Depth 3
+Z6602,Damper Depth 4
+Z6603,CTF D-1
+Z6604,CTF D-2
+Z6605,CTF E1
+Z6606,CTF E2
+Z6625,Bending control
+Z6626,Width Include Bending
+Z6627,Height Left
+Z6628,Height Right
+Z6629,Depth Left
+Z6630,Depth Right
+Z6631,Width Left
+Z6632,Width Right
+Z6636,Gap Assy handle
+Z6637,Gap  chassis door & Glass outer
+Z6640,Zero Gap Hose Drawer Assembly Condition
+Z6641,Zero Gap Hose D. TubAssembly Condition
+Z6642,Zero Gap Hose AirAssembly Condition
+Z6643,Clamp Direction Valve Water 6 o'Clock
+Z6644,Clamp Direction Hose D.Tub 9 o'Clock 
+Z6645,Clamp Direction Hose Air 6 o'Clock 
+Z6646,Hose Assembly Condition No Bend 
+Z6654,Pin lenght
+Z6655,QR code check Pass
+Z6671,Width D
+Z6672,Suspension status
+Z6687,No loosen Foot front/ No Fall out Cap Foot Front
+Z6735,Brake torque
+Z6736,Check spin torque
+Z6737,Control bolt gap
+Z6738,Distance Tooth & Sleeve
+Z6739,Flatness H/U
+Z6753,Operation Current
+Z6754,Leakage Current1
+Z6784,Burr
+Z6785,CTF Boot Dia
+Z6786,CTF Boot Dia(36-39)mm
+Z6787,CTQ All Crimping (Refer To Drawing)
+Z6788,All Housing As Per Drawing
+Z6789,All Terminal As Per Drawing
+Z6790,All TPA As per drawing
+Z6791,All Connector TPA As Per Drawing
+Z6809,Dimension10
+Z6816,Flatness 2
+Z6817,COA Attached or Not
+Z6818,Physical cylinder number/Lot No should be match with COA
+Z6819,Out put Voltate 5V
+Z6820,Out put Voltate 12V
+Z6821,No Flaws on Surface Of Wire
+Z6822,No Exposure Of Copper Wire on the surface of the wires
+Z6823,W/H-No Flaws on Surface Of the wire
+Z6824,W/H-No Exposure of Copper Wires On The Surface of Wire
+Z6825,W/H-Check the Color Of the Wire
+Z6826,W/H-No Other Harmful defect
+Z6827,W/H-Printing Check ULtype/600V/300V/105*C/80*C/AWG/ Vendor Name
+Z6829,DC Link Voltage Out
+Z6830,Comp Frequency
+Z6836,ION
+Z6837,BLDC FAN RPM
+Z6843,MOTOR ST731307-3
+Z6844,POWER ST731506-3M
+Z6845,HEATER ST730649-3
+Z6846,Emi-filter ST721294-3M
+Z6847,POWER ST730571-3
+Z6848,PULLING FORCE TERMINAL POWER SW
+Z6849,Flexure
+Z6853,All Terminals As Per Drawing
+Z6857,PULLING FORCE TERMINAL MOTOR
+Z6858,PULLING FORCE TERMINAL EMI-FITER
+Z6859,PULLING FORCE TERMINAL COMUNICATION
+Z6860,Hight terminal
+Z6861,force 01
+Z6862,force 02
+Z6863,force03
+Z6864,force 04
+Z6865,force 05
+Z6866,force 06
+Z6867,force 07
+Z6868,terminal-housing force DC
+Z6869,terminal-housing force AC
+Z6878,Clutch concentricity check point
+Z6883,Reed SW connect
+Z6898,Modify Cap hinge upp add hook
+Z6899,Modify Cap-hinge upp add hook lock
+Z6900,Capacitance C-Motor
+Z6901,Dimension C-Motor
+Z6902,Hipot voltage T-C  2000V/ 1min 5mA 
+Z6903,Insulation Resistance DC500V/ 1min  2000M more
+Z6904,CTF [F]
+Z6905,Label Inspection
+Z6906,Wire harness length ( A )
+Z6907,Wire harness length ( B )
+Z6908,Wire harness length ( C )
+Z6909,Wire harness length ( D )
+Z6910,Wire harness length ( E )
+Z6912,Manual Inspection
+Z6918,Contact P0-P1
+Z6919,P0 - P2
+Z6920,P1 - P2
+Z6921,H0 - H1
+Z6924,Version Micom 190829
+Z6925,Version Micom : 190910
+Z6926,Weight Cavity 1
+Z6927,Weight Cavity 2
+Z6938,LEVER DISTANCE
+Z6939,Dispatching filter output voltage
+Z6940,Gathering filter output voltage
+Z6941,Ion Quantity 
+Z6942,Version Micom : 150123
+Z6946,Open contact
+Z6947,Close contact
+Z6948,Load RPM (Hi)
+Z6949,Load RPM (Lo)
+Z6950,No load current (Hi)
+Z6951,Bottom shaft end
+Z6952, shaft end 
+Z6953,Thread Area
+Z6954,Main coil
+Z6955, Sub1 coil
+Z6956,Sub2 coil
+Z6957,Push force
+Z6958,Operate contact
+Z6959,Contact
+Z6960,Evenness
+Z6962,Over lap
+Z6963,illuminance
+Z6964,AC Fan
+Z6965,SSR
+Z6966,4-Way
+Z6967,Temperature sensor
+Z6968,Packing vinal
+Z6969,Packing vinal 1
+Z6970,Lamp operate
+Z6971,Withstanding AC1250 / 1s Leakage < 1.0 mA
+Z6973,Appearance check ( Scratch / Burr / Dirty / Deformation / Sinkmark / Packing good condition )
+Z6974,Voltage
+Z6975,Resistane(50)
+Z6976,dimension OD sensor
+Z6980,NOISE 1
+Z6981,FG SIGNAL 1
+Z6995,Nipple Size 1/4
+Z6996,Nipple size Tube Out 3/8
+Z6997,Tension
+Z6998,Quantity 17 clip
+Z6999,Quantity 5 clip
+Z7000,Importance part
+Z7001,Tensile Housing/Terminal >2.5 kgf
+Z7002,Dimension (Char)
+Z7003,Main Voltage Test
+Z7004,EEV Check
+Z7005,Main Voltage 
+Z7006,EEV
+Z7007,Heater Check
+Z7008,Comp Current Check
+Z7009,Comp Current
+Z7010,Sensor Check
+Z7011,PFC Check
+Z7012,DRED Check
+Z7014,Primary S/W - HVT (120V)
+Z7015,Fan Motor(120v) - monitor (s/w) COM
+Z7016,Identification confirmation
+Z7017,H.V Trans (120v) - Monitor s/w (com)
+Z7018,Primary s/w (no) - Monitor s/w (com)
+Z7019,Monitor s/w (no) - H.V Trans (230v)
+Z7020,Appearance check
+Z7022,Cutting corner
+Z7025,out dimension
+Z7026,weight1
+Z7027,Lamp- No Harmful Flaws/ Pollutants and Rust
+Z7028,Lamp- Rating printed at the base
+Z7029,Lamp- No Bending/Slanting at the base
+Z7030,Lamp- Anchor Wound More than 360 Degree
+Z7031,Lamp- Fitment Not to be loose
+Z7032,Lamp- Soldering Condition Good and As per drawing
+Z7033,Lamp- No Burr at Base and Screw Thread Not Crushed
+Z7034,W/H-Crimping Condition Ok
+Z7035,W/H-PVC Crossection/ No Of Strands and Strands Diameter As per standard
+Z7036,W/H-CTF Boot Dia 36-39mm (As Per Drawing)
+Z7037,W/H-All Dimension As Per Drawing (Check on Laying Board)
+Z7038,W/H-CTF Boot Dia (36-39mm)
+Z7039,W/H-Withstand Voltage Test(1.5KV AC for 60 Sec at 5mA)
+Z7040,W/H-Function Test (All Continuity Ok
+Z7041,W/H-Safety Standard and Core Size Printing
+Z7042,out dimension 2
+Z7043,Run-Out Of Disc
+Z7044,PULLING FORCE TERMINAL CONNECTOR 1
+Z7045,PULLING FORCE TERMINAL CONNECTOR 2
+Z7053,W/H-Insulation Resistance Check(Min 100Mohm at 500vDC)
+Z7054,PowerCord- IR Test(Min 100Mohm at 500vDC)
+Z7055,PowerCord- HV Test(1.5KV AC for 60sec)
+Z7056,PowerCord-no pollutants/ stains or dents
+Z7057,PowerCord- Wires not exposed & no insulation cut
+Z7058,PowerCord- Wires not exposed after plus foaming
+Z7059,PowerCord- Check Housing type/ terminal type/ wire sequence/ terminal bending
+Z7060,PowerCord- No strands show in socket plug
+Z7061,PowerCord- Proper soldering of terminal with strands
+Z7062,PowerCord- Not miss location of grommet 
+Z7063,Hole Distance(W)
+Z7064,Hole Distance(H)
+Z7065,Guide Width
+Z7066,Guide Height
+Z7067,Current(at 12V)
+Z7068,Sound Noise
+Z7069,Insulation Resistance(500VDC)
+Z7080,Power Heater 1
+Z7081,Power Heater 2
+Z7082,Current Heater 1
+Z7083,Current Heater 2
+Z7084,Coil Resistance Heater 1
+Z7085,Coil Resistance Heater 2
+Z7086,Withstanding AC1/800 / 1s Leakage < 5.00 mA
+Z7087,Insulation DC500V >100Mohm
+Z7088,owerCord- All Dimension Check on Laying Board(As Per Drawing)
+Z7089,PowerCord- Length Check 1500mm-1550mm (As per Drawing)
+Z7090,PowerCord- All Dimension/Length Check on Laying Board(As Per Drawing)
+Z7103,CTF [A]
+Z7104,CTF [B]
+Z7105,CTF [C]
+Z7106,CTF [D]
+Z7107,CTF [E]
+Z7132,pf outvoltage
+Z7135,CTF [H]
+Z7137,Initial contact resistance
+Z7138,SWITCH HEIGHT
+Z7139,Direction sponge same with master sample
+Z7148,Gap Check
+Z7152,Angle A
+Z7153,Angle B
+Z7154,Angle C
+Z7155,Angle D
+Z7156,Quantity 6 clip
+Z7157,Diameter C
+Z7163,Insulation resistance 500VDC Max 50Mohm
+Z7164,Roughness(Ra)
+Z7165,Roughness(Ry)
+Z7167,leakage yaetaet
+Z7180,Up Motor Current
+Z7181,Down Motor Current
+Z7182,Left/Right Motor Current
+Z7185,Noise filter-L - Source input
+Z7186,Main TCO - Inner Grill
+Z7187,Face Out
+Z7240,CTF B-1
+Z7241,CTF B-2
+Z7242,CTF C-1
+Z7243,CTF C-2
+Z7247,Resistance 1
+Z7248,Resistance 
+Z7249,He Leakage
+Z7250,N2 Leakage
+Z7252,Plug Dimension
+Z7260,ASSY CASE WIDTH
+Z7261,VOICE TEST
+Z7262,WIFI AP SCAN
+Z7278,PIPE wall thickness
+Z7279,Air tightness
+Z7280,Option Input
+Z7281,Test Mode Entry
+Z7282,Main Micom Code
+Z7283,WiFi Micom Code
+Z7284,WiFi Micom Version
+Z7285,Room Temperature
+Z7286,EVA IN Temperature
+Z7287,EVA OUT Temperature
+Z7288,Humidity Sensor
+Z7289,Dust Sensor
+Z7290,Motion Detect
+Z7291,Voice Micom Code
+Z7292,Voice Micom Version
+Z7293,Step Motor-1
+Z7294,Step Motor-2/EEV
+Z7295,K-Filter
+Z7296,Wired Remocon
+Z7297,SSR Comm Test
+Z7298,KEY Input Test
+Z7299,Option Clear
+Z7300,COVER WIRE HINGE
+Z7301,CAP SPACER DOOR
+Z7302,COLOR SNOW WHITE
+Z7303,COLOR INOX GRAY
+Z7306,Remaining charge high
+Z7307,Contact stability1
+Z7309,High pressure
+Z7310,Low pressure
+Z7311,Elongation1
+Z7312,Viscosity
+Z7313,No wet / scratch / crack /Dirty 
+Z7336,Hole D-Cut Surface
+Z7337,Dimension of the shaft hole
+Z7338,Dimension of the shaft hole-1
+Z7363,Construction1
+Z7364,slot width1
+Z7365,Coating thickness1
+Z7366,open force
+Z7367,close force
+Z7368,Rotating torque
+Z7369,dust test
+Z7370,down time
+Z7376,Expanding Inspection
+Z7384,Hole 24
+Z7386,outer diameter2
+Z7390,Checking 8 points and hook
+Z7391,Urethane High
+Z7392,Sub Micom Version
+Z7394,Option
+Z7395,Lever-Arm Bolt - Loctite
+Z7396,Lever-Arm Bolt torque
+Z7397,Version Micom : 19120390
+Z7398,Version Micom : 19082980
+Z7399,Version Micom : 191203
+Z7400,Version Micom : 191111
+Z7401,Pulling force terminal door lock SW
+Z7402,pulling force terminal door SW
+Z7403,pulling force terminal door 2nd door
+Z7404,pulling force terminal door SW 2
+Z7410,A.hose release force circulation
+Z7411,A.hose release force bubble shot
+Z7412,PULLING FORCE TERMINAL MOTOR (PCB)
+Z7413,PULLING FORCE TERMINAL POWER
+Z7414,PULLING FORCE TERMINAL MAIN POWER
+Z7415,Gap case pump & motor AC pump
+Z7416,Diameter Hose drain
+Z7417,Weight part non
+Z7418,Button Flash
+Z7419,Torque screw
+Z7420,PULLING FORCE TERMINAL MOTOR 2
+Z7421,Inner Dimension
+Z7422,ink viscosity
+Z7423,full viscosity
+Z7453,Hinge pull force
+Z7454,PULLING FORCE TERMINAL DRAIN PUMP
+Z7455,PULLING FORCE TERMINAL PUMP
+Z7456,Version micom 191111
+Z7458,Gap 3
+Z7459,Hole size 1
+Z7460,Hole size 2
+Z7461,Gap 1
+Z7462,Dimension Point 1
+Z7463,Dimension Point 2
+Z7464,Dimension Point 3
+Z7465,Dimension Point 4
+Z7467,Body Latch Lenght 2
+Z7468,Fan Motor(230V) - Monitor S/W (NO)
+Z7469,Fan Motor (21V) - Drive Motor
+Z7470,Terminal strength 2
+Z7472,Aligment
+Z7473,PULLING FORCE TERMINAL ST731454-3SS
+Z7474,PULLING FORCE TERMINAL 12507TS
+Z7476,Version Micom : 19091020
+Z7477,Version Micom : 191023A0
+Z7506,Version Micom : 19120340
+Z7508,No Dusty in weld line of mold
+Z7526,Coil Resistance Main
+Z7527,Coil Resistance Sub
+Z7528,Version Micom : 19082970
+Z7540,Water frequency
+Z7548,Capi Tube Service Valve Size 1/4
+Z7549,Suction Tube Service Valve Size 1/2
+Z7550,Suction Tube Service Valve Size 3/8
+Z7551,Suction Tube Service Valve Size 5/8
+Z7552,EEV Valve Service Valve Size 1/4
+Z7553,4 Way Service Valve Size 1/2
+Z7554,4 Way Service Valve Size 3/8
+Z7555,4 Way Service Valve Size 5/8
+Z7556,Length A
+Z7557,Length B
+Z7558,Length C
+Z7559,Operate voltage
+Z7560,Hook assembly condition
+Z7561,Version Micom : 170925_33F9
+Z7562,Inner width
+Z7563,Inner width 2
+Z7564,Inner width 3
+Z7589,Function test LED
+Z7591,Coating thickness 2
+Z7605,Version Micom : 19082960
+Z7616,RF Leakage
+Z7617,Grounding Bond
+Z7618,Power Consumption- Wave
+Z7619,Power Consumption- Grill
+Z7620,Power Consumption- Combi
+Z7621,Leakage_Current
+Z7622,AWI Main
+Z7623,AWI Inrush
+Z7624,Power High
+Z7625,grill Heater
+Z7627,wrong assemble
+Z7639,Version Micom : 19091010
+Z7655,Inner Length
+Z7656,straightness
+Z7657,PULLING FORCE TERMINAL HOUSING 12507TS-G1
+Z7661,Live 1 source 2 - CNP 100 (5)
+Z7662,Live 2 source - CNP 100 (1)
+Z7663,neutral source - main TCO
+Z7664,Drive motor - lamp
+Z7665,Key door upper to hole depth
+Z7666,Key door lower to hole depth
+Z7680,Withstanding Voltage
+Z7681,Insulation_Resistance
+Z7682,Internal_Leakage
+Z7691,contact resistance 
+Z7698,Insulation Resistance moredane 10 MOhm 500VDC
+Z7699,dimension14
+Z7700,dimension15
+Z7701,dimension17
+Z7702,dimension20
+Z7703,PULLING FORCE TERMINAL ST731394-3M
+Z7704,COMP RPM
+Z7705,FAN RPM
+Z7707,Sided adhesive 
+Z7708,Hi-pot AC : 3000VAC/  5mA/  1.5 sec
+Z7709,IR  : 500VDC/   10/    1.0 sec
+Z7710,dimension9
+Z7711, dimension12
+Z7712, dimension13
+Z7713, dimension17
+Z7714, dimension18
+Z7716,Motor Appearance- No Seperation of Bearing/ No Corrosion/ Flaws/ Deformation/ No Stains or Delamination Color of Bobbin As per spec
+Z7717,Motor RPM- Check Direction and RPM As per Spec
+Z7718,Motor Noise- Max 38db
+Z7719,Motor Operating Voltage- DC 6v-13v
+Z7720,Motor Starting Voltage
+Z7721,Motor Shaft- No Tilt/Jan
+Z7722,Motor Shaft Ok- No Tilt/Jam
+Z7723,Wash CW Torque
+Z7724,Coupler GAP
+Z7725,Shaft Height
+Z7726,Shaft Deviation
+Z7727,Water Seal Height
+Z7728,Wash CW Noise
+Z7729,Wash CCW Noise
+Z7730,Spin High RPM Noise
+Z7731,Spin Low RPM Noise
+Z7732,Lever Diff
+Z7742,Heater Coil Size (C)
+Z7743,Bracket Hole (A)
+Z7744,No load Voltage 2
+Z7745,Filament Voltage 2
+Z7746,Hi pot (Pri-core)
+Z7747,Hi Pot (Pri-Heater)
+Z7748,P-Winding Resistance
+Z7749,S-Winding Resistance
+Z7750,No Load Current 2 
+Z7751,No Load Watt 2 
+Z7752,Insulation Resistance more that 100Mohm (Pri-Heater)
+Z7753,Insulation Resistance more than 100Mohm (Heater-Core)
+Z7754,Hi pot (Pri-core) AC 1500/1 min Char
+Z7755,Hi pot (Pri-core) AC 7500/1 min Char
+Z7756,Insulation Resistance more than 100Mohm (Pri-Core)
+Z7757,Hi -pot  (Heater Core) AC 7500/1 min Char
+Z7758,Bi metal bake open
+Z7759,Bi metal broil open
+Z7760,External_Leakage
+Z7761,Blade - High
+Z7762,No load voltage
+Z7763,Filament Voltage
+Z7764,P-Winding Resistance 2 (25-35degree)
+Z7765,Motor Low Voltage- 75% of Rated Voltage for 5 Hrs
+Z7766,Motor High Voltage- 135% of Rated Voltage for 5 hrs
+Z7767,Motor Starting Voltage- DC 6V Max
+Z7773,Appearance ( Buble/ cracked/ scratch/ dirty/ deform/ black dot...)
+Z7774,Appearance ( No buble/ no crack/ no dirty/ no scratch/ no black dot...)
+Z7775,PULLING FORCE TERMINAL SSF-21T-P1.48A
+Z7776,PULLING FORCE TERMINAL YDH236-MSB
+Z7777,(PL) Insulation Resistance 1.5 kv @0.7 mA/ 1 sec
+Z7788,Leak
+Z7800,Power LR
+Z7801,Power LF Inner
+Z7802,Power LF Outer
+Z7803,Power Warming Center
+Z7804,Power RR
+Z7805,Power RF Inner_Tri
+Z7806,Power RF Center_Tri
+Z7807,Power RF Outer_Tri
+Z7808,Power RF Inner_Dual
+Z7809,Power RF Outer_Dual
+Z7810,COMMUNICATION TEST
+Z7811,Main Version
+Z7812,Panel Version
+Z7813,Screen Touch Version
+Z7814,LCD Version
+Z7815,PMOLED VERSION
+Z7816,TOUCH VERSION
+Z7817,PANEL MICOM CODE
+Z7818,LCD MICOM CODE
+Z7819,PMOLED MICOM CODE
+Z7820,TOUCH MICOM CODE
+Z7821,BLUETOOTH MICOM CODE
+Z7822,EEPROM OPRION
+Z7823,EEPROM OPTION
+Z7824,BLUETOOTH VERSION
+Z7825,BLUETOOTH PAIRING
+Z7826,WIFI VERSION
+Z7827,WIFI MAC ADDRESS
+Z7828,WIFI PAIRING
+Z7829,CALIBRATION UPPER
+Z7830,CALIBRATION LOWER
+Z7831,CALIBRATION PASS/FAIL
+Z7832,BUTTON TEST
+Z7833,LCD SCREEN TOUCH TEST
+Z7834,LCD COLOR TEST
+Z7835,C-BOX TEST
+Z7836,MAIN RESET SIGNAL
+Z7837,DISPLAY TEST
+Z7838,Hass Sub Micom Assy Code
+Z7839,Hass Sub Micom Version
+Z7840,Attr IDs Supported
+Z7841,Display Micom Version
+Z7842,Display Micom Assy Code
+Z7843,LCD Assy Code
+Z7844,Inverter1 Micom Version
+Z7845,Inverter2 Micom Version
+Z7846,Inverter3 Micom Version
+Z7847,Touch1 Micom Version
+Z7848,Touch2 Micom Version
+Z7849,Touch3 Micom Version
+Z7850,Touch4 Micom Version
+Z7851,Touch1 Micom Assy Code
+Z7852,Touch2 Micom Assy Code
+Z7853,Touch3 Micom Assy Code
+Z7854,Touch4 Micom Assy Code
+Z7855,EEPROM Model Option
+Z7856,Bluetooth Assy Code
+Z7857,Bluetooth Paring
+Z7858,Wifi Code
+Z7859,Wifi Connection Information
+Z7860,Factory Reset
+Z7861,Upper Calibration data
+Z7862,Lower Calibration data
+Z7863,Process Mode
+Z7864,Screen Touch Test
+Z7865,Color Test
+Z7866,C/Box Inspection Mode
+Z7867,Main Reset Signal Inspection
+Z7868,Ext Input Test
+Z7869,SE Key Test
+Z7870,Knob Light
+Z7871,Ch0 Top Sensor(Upper)
+Z7872,Ch1 Top Sensor(Upper)
+Z7873,Ch2 Top Sensor(Upper)
+Z7874,Ch3 Top Sensor(Upper)
+Z7875,Ch4 Top Sensor(Upper)
+Z7876,Ch5 Top Sensor(Upper)
+Z7877,Ch0 Top Sensor Lower(Flex)
+Z7878,Ch1 Top Sensor Lower(Flex)
+Z7879,Ch2 Top Sensor Lower(Flex)
+Z7880,Ch3 Top Sensor Lower(Flex)
+Z7881,Ch4 Top Sensor Lower(Flex)
+Z7882,Ch5 Top Sensor Lower(Flex)
+Z7883,Cooling Fan Speed Induction(Left)
+Z7884,Cooling Fan Speed Induction(Right)
+Z7885,LF [Knob #1]
+Z7886,LR [Knob #2]
+Z7887,RF [Knob #3]
+Z7888,RR [Knob #4]
+Z7889,[Knob #5]
+Z7890,Inspector Test
+Z7891,Delay
+Z7892,TOUCH2 VERSION
+Z7893,MAIN2 MICOM CODE
+Z7894,TOUCH2 MICOM CODE
+Z7899,Leak2
+Z7905,Jig tapping 1/4-20UNS
+Z7906,Tapping 1/4-20UNS
+Z7907,Shaft angle
+Z7908,TAPPING JIG 1/4-20UNS
+Z7909,Jig Tapping 1/4- 20UNS
+Z7910,Push depth
+Z7911,1/4-20UNC
+Z7912,Saft alignment
+Z7913,Saft alignment 1
+Z7914,Bypass flowrate
+Z7915,Leakage  Current
+Z7916,FUSE CUT OFF TIME
+Z7917,FUSE  CUT  OFF  TIME
+Z7918,Resistor
+Z7919,Resistor 2
+Z7920,B Integer
+Z7921,B Integer 2
+Z7922,Power Watt 1
+Z7923,power Watt 2
+Z7924,Current rate H
+Z7925,current rate L
+Z7926,Tapping M4
+Z7927,TappingM4
+Z7928,TappingM12
+Z7929,Dimeter
+Z7930,Thread M13
+Z7931,Distance Chamfer
+Z7932,Angle Chamfer
+Z7933,Angle Chamfer 30.0 Degree
+Z7934,Nozzle 1
+Z7935,Nozzle 2
+Z7936,Dimeter 1
+Z7937,Dimeter 2
+Z7938,leakage current 1
+Z7939, Touch MICOM Wright
+Z7940,Panel MICOM Wright
+Z7941,Output Voltge 8 V
+Z7942,Output Voltage 1.5 V
+Z7943,Output Voltage 3.3V
+Z7944, UART Oven to Panel
+Z7945, Panel MICOM Version
+Z7946,Touch MICOM Version
+Z7947,LCD MICOM Version
+Z7948,EEPROM Test
+Z7949,EEPROM Option Test
+Z7950,Calibration Test
+Z7951,WiFI Test
+Z7952,Touch Test
+Z7953,IN_TOGGLE-P33
+Z7954,IN_TEMP-S-UPPER-P1
+Z7955, IN_RELAY-TEMP-S-P2
+Z7956,IN_PCB-TEMP-S-P7
+Z7957,IN_L2_INT-P32
+Z7958,IN_L1_INT-P34
+Z7959,IN_OTN-FNARI_F-P35
+Z7960,IN_CTOP-SENSING-1-64
+Z7961,IN_CTOP-SENSING-2-65
+Z7962,IN_CTOP-SENSING-3-60
+Z7963,N_CTOP-SENSING-4-61
+Z7964,IN_CTOP-SENSING-5-62
+Z7965,IN_CTOP-SENSING-6-63
+Z7966,IN_DIAL-A-P81
+Z7967,IN_DIAL-B-P82
+Z7968,IN_DIAL-PUSH-P83
+Z7969,IN_DOOR-LOCK-SW-P88
+Z7970,IN_DOOR-SW1-P94/DOOR-SW2-P91
+Z7971,OUT_RY-OPTION1-P3
+Z7972,OUT_RY-OPTION2-P4
+Z7973, OUT_RY-WD-HEATER-P5
+Z7974,OUT_RY-BAKE-HEATER-P6
+Z7975,OUT_RY-CONV-HEATER-P18
+Z7976,OUT_RY-DOOR-LOCK-P19
+Z7977,OUT_WC-CTRL-P21v
+Z7978,OUT_RY-WC-HEATER-P22
+Z7979,OUT_RY-CONV-FAN-P23
+Z7980,OUT_RY-OVEN-LAMP-P24
+Z7981,OUT_RY-BROIL-HEATER-P25
+Z7982,OUT_BZ-CON-P26
+Z7983,OUT_BUZZER-P27
+Z7984,OUT_COOKTOP-ON-LED-R-P28
+Z7985,OUT_COOKTOP-ON-LED-L-P29
+Z7986,OUT_RY-DLB-P30
+Z7987,OUT_KNOBLIGHT-1-P44
+Z7988,OUT_KNOBLIGHT-2-P45
+Z7989,OUT_KNOBLIGHT-3-P46
+Z7990,OUT_KNOBLIGHT-4-P47
+Z7991,OUT_KNOBLIGHT-5-P48
+Z7992,OUT_KNOBLIGHT-6-P49
+Z7993,OUT_DIMMING-SCL-P58
+Z7994,OUT_DIMMING-SDA-P59
+Z8011,Air leak Test
+Z8051,Have Welding 4 point and no over heating
+Z8054,Clinching spot thikness
+Z8055,Clinching spot thikness 1
+Z8056,Clinching spot thikness 2
+Z8058,Touch voltage
+Z8092,Inductance (1-4)
+Z8093,Leakage Inductance (1-4)
+Z8094,Inductance (3-4)
+Z8095,nductance (8-10)
+Z8096,Inductance (5-6)
+Z8097,Inductance (9-11)
+Z8098,Inductance (1-2)
+Z8102,Low Leak Test
+Z8103,High Leak Test
+Z8104,Water Leak Cut-Off
+Z8207, distance
+Z8208,distance 
+Z8209,distance  
+Z8210,distance1
+Z8211,vertical angle
+Z8212,Diameter
+Z8213,runout
+Z8229,Resistance1_ICE
+Z8230,Resistance1_DIS
+Z8231,Resistance1_FICE
+Z8232,Resistance_Heat Coil
+Z8233,Pressure_ICE
+Z8234,Pressure_DIS
+Z8235,Pressure_FICE
+Z8236,Leak_Water Tank
+Z8237,Flow_Water Tank
+Z8238,LED_Water Tank
+Z8239,Block_Water Tank
+Z8240,Rear Leak
+Z8241,Filter_1
+Z8242,Filter_2
+Z8243,Resistance2_ICE
+Z8244,Resistance2_DIS
+Z8245,Resistance2_FICE
+Z8246,Resistance2_Heat Coil
+Z8253,SpringTest
+Z8254,force-2
+Z8255,force-3
+Z8375,CYLINDER SHOULD BE SEALED CONDITION & AS PER SIEL PACKING STD
+Z8376,COA PARAMETERS SHOULD BE MATCHED SIEL STD & ATTACHED.
+Z8377,contact resistance1
+Z8378,contact resistance2
+Z8379,flow2
+Z8380,flow3
+Z8381,flow4
+Z8382,flow5
+Z8383,jinshuijiancha
+Z8387,strength.
+Z8398,strength..
+Z8413,No Flash / No Flash cutting 
+Z8414,No flash/No flash cutting 
+Z8478,123
+Z8479,Resistance1_ICEE
+Z8480,Resistance1_ICE6
+Z8485,Baseline Test
+Z8486,Touch Sensitivity Test
+Z8487,Vibration tester
+Z8488,Detergent pressure
+Z8489,Softener pressure
+Z8490,Monitor interlock s/w - Fan Motor (120v)
+Z8496,Not Applicable
+Z8497,Alienatio Power 1
+Z8498,Alienatio Power 2
+Z8502,UV chamber inspection
+Z8503,Baseline(Power)
+Z8504,Baseline(Start)
+Z8505,Baseline(OK)
+Z8506,Baseline(Temp)
+Z8507,Baseline(Rinse)
+Z8508,Baseline(Spin)
+Z8509,Baseline(Option)
+Z8510,Baseline(Smart Control)
+Z8511,Touch Sensitivity(Power)
+Z8512,Touch Sensitivity(Start)
+Z8513,Touch Sensitivity(OK)
+Z8514,Touch Sensitivity(Temp)
+Z8515,Touch Sensitivity(Rinse)
+Z8516,Touch Sensitivity(Spin)
+Z8517,Touch Sensitivity(Option)
+Z8518,Touch Sensitivity(Smart Control)
+Z8519,UV Test Chamber
+Z8523,PULLING FORCE TERMINAL YST200-H3
+Z8525,warpage
+Z8529,Noise(overall)
+Z8532,Pipe temperature variation
+Z8533,MOTOR POWER
+Z8534,Pipe temperature variation slop
+Z8535,AVERAGE WATT
+Z8536,Compressor Power
+Z8545,Hidden Key
+Z8546,Key Module Function
+Z8557,Pulling force
+Z8561,W/H-No Wire Cut Rework (Tape/Terminal)
+Z8562,Gap check 45 degree
+Z8563,Gap check 90 degree
+Z8564,Current consumption
+Z8565,Air Leakage
+Z8566,weight 
+Z8567,AIR LEAK (1WAY VALVE)
+Z8568,AIR LEAK (2WAY VALVE)
+Z8569,Thread 1/2-14 NPT
+Z8570,Thread 5/8-18 UNF-2B
+Z8571,Thread 9/16-24
+Z8575,AL TAPE checking/ not missing
+Z8576,Motor Operating Voltage
+Z8585,Width5
+Z8586,Width6
+Z8588,Chassis & Handle
+Z8589,Cover hinge & Glass
+Z8590,Duct & Glass
+Z8591,Distance of hinge
+Z8592,Height (Inner-Outer)
+Z8593,The holding pressure
+Z8594,TIME CHECK
+Z8595,(OPEN)
+Z8596,(CLOSED)
+Z8597,TIME CHECK 
+Z8598,Dust inside LED display
+Z8599,FAN Voltage
+Z8600,T_Sensor resistance
+Z8601,Compare-R resistance
+Z8602,direction of winding
+Z8603,resistance4
+Z8604,resistance5
+Z8605,Flexural Strength1
+Z8606,Tensile strength1
+Z8607, resistance
+Z8608,Height Difference
+Z8610,number
+Z8611,Amount of refrigerant
+Z8612,test
+Z8623,Align
+Z8629,HE Pressurization[Kgf/]
+Z8630,N2 Pressure[Kgf/]
+Z8631,power consumption(Sub Assy Drain Pump)
+Z8632,Contact On (Float S/W)
+Z8633,Contact Off (Float S/W)
+Z8634,Booster Fan 1(rpm)
+Z8635,Booster Fan 2(rpm)
+Z8636,Booster Fan 3(rpm)
+Z8637,Booster Fan Noise [OK]
+Z8638,FAN Nut Torque
+Z8639,Motor Nut Torque A
+Z8640,Motor Nut Torque B
+Z8641,Motor Nut Torque C
+Z8642,Main Micom Version
+Z8643,COM1
+Z8644,COM2
+Z8645,Function test (STEP MOTOR)
+Z8646,Error Code
+Z8647,Wire Remocon Voltage 12V
+Z8648,PM2.5
+Z8649,PM10
+Z8650,power consumption (Drain Pump)
+Z8651,Booter Fan RPM 1
+Z8652,Booter Fan RPM 2
+Z8653,Booter Fan RPM 3
+Z8654,Length Wire L1
+Z8655,Length Wire L2
+Z8656,Length Wire L3
+Z8657,Length Wire L4
+Z8658,Length Wire L5
+Z8659,Length L5
+Z8660,Length L6
+Z8661,Room Temp Resistance
+Z8662,Evap-In Temp Resistance
+Z8663,Evap-Out Temp Resistance
+Z8666,CTF-A
+Z8667,Angle check
+Z8668,Width 1
+Z8679,Thread
+Z8681,Protection film check
+Z8695,Coil Harmonic code DB27-00067A
+Z8696,Coil Hamonic Code DB27-00041B
+Z8697,Coil Hamonic DB27-00041B
+Z8698,Coil Hamonic DB27-00067A
+Z8699,Air Leaked Air pressureHight 3.0 Kgf.cmLow 0.3 Kgf.cm
+Z8700,Water Leaked  / Leak Water  2.0 Kgf.cmFlow Water  2.0 Kgf.cm
+Z8701,Air vent hole should be all open as per spec.
+Z8702,Hook assembly 
+Z8703,test 1234
+Z8704,hi-pot_US
+Z8705,start voltage
+Z8706,sustain voltage
+Z8707,Micom_Sub_VER
+Z8708,Micom_EEPROM_DB
+Z8709,Micom_EEPROM_VER
+Z8710,Dummy High Pressure Inspection_Highpressure01
+Z8711,Dummy High Pressure Inspection_Highpressure02
+Z8712,Dummy Low Pressure Test_Low Pressure 01
+Z8713,EEV1 Valve Close
+Z8714,EEV2 Valve Close
+Z8715,EEV3 Valve Close
+Z8716,EEV1 Valve Open
+Z8717,EEV2 Valve Open
+Z8718,EEV3 Valve Open
+Z8719,Sensor Test_Outdoor Temperature
+Z8720,Sensor Test_Delivery Temperature 1
+Z8721,Sensor Test_Comp Top Temperature
+Z8722,Sensor Test_IPM Temperature
+Z8723,Sensor Test_COND OUT
+Z8724,Vaccum Pump
+Z8725,Ground Bond
+Z8726,Charging Weigth[g]
+Z8728,Gap Control
+Z8729,LEG Rubber Hardness
+Z8730,Leg Adjuct Torque
+Z8731,Screw-Tapping Torque
+Z8732,Screw Pump Torque
+Z8733,Bolt-Hex Pump Torque
+Z8743,OVERLAP
+Z8748,Open circuit test
+Z8749,Short circuit test
+Z8750,terminal1
+Z8751,Vision inspection
+Z8752,Power RF Inner
+Z8753,Power RF Outer
+Z8754,Power RF Center
+Z8755,PRI S/W (COM) TO FAN MOTOR
+Z8756,MONI. S/W (NO) TO DRIVE MOTOR
+Z8757,COOKTOP DISPLAY TEST
+Z8758,INVERTER 1 MICOM VERSION
+Z8759,INVERTER 2 MICOM VERSION
+Z8760,INVERTER 3 MICOM VERSION
+Z8761,INVERTER 1 MICOM CODE
+Z8762,INVERTER 2 MICOM CODE
+Z8763,INVERTER 3 MICOM CODE
+Z8764,CH0 UPPER SENSOR
+Z8765,CH1 UPPER SENSOR
+Z8766,CH2 UPPER SENSOR
+Z8767,CH3 UPPER SENSOR
+Z8768,FAN LEFT RPM
+Z8769,FAN RIGHT RPM
+Z8770,INVERTER 1 THERMISTOR
+Z8771,INVERTER 2 THERMISTOR
+Z8772,INVERTER 3 THERMISTOR
+Z8773,UPPER SENSOR
+Z8774,Temperature at Normal Notch (Cut ON)
+Z8775,Temperature at Normal Notch (Cut OFF)
+Z8776,Temperature at Defrost 
+Z8777,Cold resistance R1
+Z8778,Cold resistance R2
+Z8779,Power R1
+Z8780,Power R2
+Z8781,Power R1 + R2
+Z8782,Withstanding AC1/000V 1Min < 1mA
+Z8783,Insulation DC 500V >10M
+Z8784,Insulation ( G ohm ) DC 500V >10 Mohm
+Z8785,Air Hose
+Z8786,Cap Trap welding
+Z8787,Assy Clutch
+Z8788,RY-GRILLMAIN
+Z8789,RY-BOTTOMHEATER
+Z8790,RY-Convention Heater
+Z8791,RY-DOOR Lock
+Z8792,RY-UPPER LAMP
+Z8793,RY-W/C Heater
+Z8794,RY-UPPER FAN
+Z8795,RY Check
+Z8796,Cluster Enable2
+Z8797,RY-DLB
+Z8798,Pressure In [Bar]
+Z8799,Pressure Capillary Tube [Bar]
+Z8800,Pressure Vacumm Tube [Bar]
+Z8804,Vision Test (Gray Image)
+Z8805,Vision Test (Color Image)
+Z8806,Coil Hamonic DB27-00119A
+Z8807,Coil Hamonic DB27-00120A
+Z8808,Coil Hamonic DB27-00043A
+Z8822,Lidar Zero max angle
+Z8823,Lidar max error
+Z8824,Lidar Max angle range
+Z8825,STANDBY VOLTAGE
+Z8826,CHARGING VOLTAGE
+Z8827,CHARGING CURRENT
+Z8828,SUCTION POWER
+Z8829,SUCTION VACUUM
+Z8830,Cliff Close FC
+Z8831,Cliff Close FL
+Z8832,Cliff Close FR
+Z8833,SOC DL
+Z8834,SOC SL
+Z8835,SOC DR
+Z8836,SOC SR
+Z8837,3D S1
+Z8838,3D S2
+Z8839,3D S3
+Z8840,3D S4
+Z8841,THINGS ID
+Z8885,CW2_VELOSITY
+Z8886,CW2_CURRENT
+Z8887,CCW2_VELOSITY
+Z8888,CCW2_CURRENT
+Z8889,CLIFF OPEN SIDE
+Z8890,CLIFF OPEN REAR
+Z8891,CLIFF CLOSE SIDE
+Z8892,CLIFF CLOISE REAR
+Z8893,Salt Spray Test
+Z8894,Motor ON RPM
+Z8895,Motor ON Current
+Z8896,Motor ON Temp
+Z8897,Hall On time[ms]
+Z8898,Hall Delay time[ms]
+Z8899,EMF Delay time[ms]
+Z8910,BALANCE  BESIDE 
+Z8911,Appearance 1
+Z8912,Appearance 2
+Z8913,Appearance 3
+Z8914,Torque 1
+Z8915,Torque 2
+Z8916,Appearance 4
+Z8917,Appearance 5
+Z8918,Flame test
+Z8919,Gap 2 
+Z8920,Gap 4
+Z8921,Gap 5
+Z8922,Gap 6
+Z8928,Surface resistance coating
+Z8929,flat ness
+Z8930,dimension21
+Z8931,dimension22
+Z8932,dimension24
+Z8933,Cock height
+Z8934,dimension 25
+Z8935,dimension 23
+Z8936,Surface residual rate
+Z8937,dimension 26
+Z8938,dimension 27 
+Z8939,dimension 28 
+Z8940,dimension 29
+Z8941,dimension 30
+Z8942,dimension 31
+Z8943,dimension 32
+Z8944,dimension 33
+Z8945,dimension 34
+Z8946,dimension 35
+Z8947,vibration.
+Z8954,Cliff Open FC
+Z8955,Cliff Open FL
+Z8956,Cliff Open FR
+Z8957,SOO DL
+Z8958,SOO SL
+Z8959,SOO DR
+Z8960,SOO SR
+Z8961,Battery Voltage
+Z8962,Dust sensor Close
+Z8963,Wal-FI Close Right
+Z8964,Lidar distance 1
+Z8965,Lidar distance 2
+Z8966,Drum Forward RPM
+Z8967,Wheel forward Left
+Z8968,Wheel forward Right
+Z8969,Drum Noise
+Z8970,Wheel Noise
+Z8971,Gyro Yaw
+Z8974,CTF A-1
+Z8975,CTF A-2
+Z8976,CTF C-3
+Z8977,CTF C-4
+Z8978,pitch 1
+Z8980,Burr Trimimg
+Z8981,PL Appearance (Burr & Flashing)
+Z8982,RQ
+Z8983,Bore 
+Z8984,Bore taper area
+Z8985,Door S/W
+Z9017,Burring Hole
+Z9018,resistance(U-V)
+Z9019,resistance(V-W)
+Z9020,resistance(U-W)
+Z9021,No crack at part
+Z9023,Hight
+Z9024,Hight Bush
+Z9025,Balance Top
+Z9026,Withstandvoltage(AC1500V/1min) 5 mA
+Z9027,Withstand voltage (AC1800V/1sec) 5 mA
+Z9028,Mark confirmation
+Z9029,PULLING FORCE TERMINAL ST731177-3
+Z9030,PULLING FORCE TERMINAL ST741084-3
+Z9034,Lamp to Convection Motor
+Z9035,Main TCO to Cooling Motor
+Z9036,Grill large heater to Grill small heater
+Z9037,Convection TCO to Convection Heater
+Z9038,Main TCO to Upper lamp
+Z9039,Grill Heater relay to Grill heater
+Z9040,Pin Terminal(CW)
+Z9041,Pin Terminal(CH)
+Z9042,Poke Terminal(CW)
+Z9043,Pin Terminal (Pull-Off)
+Z9044,Poke Terminal (Pull-Off)
+Z9045,Poke Terminal(CH)
+Z9046,PANEL MICOM CODE_1
+Z9047,Remote Control Receive
+Z9048,Panel MICOM Version_1
+Z9049,PMOLED MICOM CODE_1
+Z9050,PMOLED MICOM Version_1
+Z9051,Dust collecting voltage[KV]
+Z9052,Voltage charging unit[KV]
+Z9053,Dust collecting voltage[KV]_1
+Z9054,Voltage charging unit[KV]_1
+Z9055,Main Micom Code_1
+Z9056,Main Micom Version_1
+Z9057,Dust Sensor(PM 1.0) [Pulse]
+Z9058,Dust Sensor(PM 2.5) [Pulse]
+Z9059,Dust Sensor(PM 10) [Pulse]
+Z9060,Fan Wind Check
+Z9061,Gas Sensor_1
+Z9062,Main Micom Code_2
+Z9063,Main Micom Version_2
+Z9064,Discharge Temperature Sensor
+Z9065,Magnetic Check
+Z9066,Output Voltage1 12V
+Z9067,Output Voltage1 5V
+Z9068,Output Voltage2 12V
+Z9069,Output Voltage2 5V
+Z9070,FAN Temperature
+Z9071,WiFi Micom Version_1
+Z9072,Gas Sensor
+Z9073,PM1.0
+Z9078,Assy Case PBA-Check Power Cord Part Code
+Z9079,Assy Case PBA-Power Cord Part Code 3903-000792
+Z9080,Assy Case PBA- PBA Part Code DA92-01287 A/B/C
+Z9081,Assy Case PBA- Check PBA at FT 5V&15V Ok
+Z9082,Assy Case PBA- Check Compressor Run while PBA Testing at FT
+Z9083,Assy Case PBA- Main / Riveting should be proper/ No Molding Defect
+Z9084,Assy Case PBA- Power Cord / Should be OKAY/ No Cut Mark & No Connector Damage
+Z9085,Humidity Sensor_1
+Z9087,Insulation Resistance [DC500V/1min More 100 Mohm]
+Z9088,Mark (s) of conformity
+Z9089,Vacuum(kpa)
+Z9090,Poor coating
+Z9091,Dimension 10
+Z9093,Hinge
+Z9095,12V Check
+Z9096,12V Short Check
+Z9097,15V Check
+Z9098,operating force
+Z9099,brush quantity
+Z9100,SMART JIG MODE
+Z9101,FND ALL ON
+Z9102,LED ALL ON
+Z9103,GLED ALL ON
+Z9104,BUZZER Test
+Z9105,Tact switch1
+Z9106,Tact switch2
+Z9107,Tact switch3
+Z9108,Tact switch4
+Z9109,Tact switch5
+Z9110,Tact switch6
+Z9111,Tact switch7
+Z9112,Tact switch8
+Z9113,Tact switch9
+Z9114,Tact switch10
+Z9115,Tact switch11
+Z9116,Tact switch12
+Z9117,Option Test
+Z9118,Option Test2
+Z9119,Option Test3
+Z9120,Inverter Version
+Z9121,Tact Switch13
+Z9122,MAIN JIG DFPT Mode
+Z9123,INV JIG MODE
+Z9124,SUB POWER ON
+Z9125,DC 5V Test
+Z9126,DUCT TEMP Test
+Z9127,CONDENSING TEMP Test
+Z9128,Water Temp Test
+Z9129,Water Temp Test2
+Z9130,WATER JET TEMP Test
+Z9131,Fastening force1
+Z9132,Clutch Hall Test
+Z9133,Checker Test
+Z9134,SIDE JET Test
+Z9135,Cold Valve Test
+Z9136,Hot Valve Test
+Z9137,Rinse Test
+Z9138,Bleach Test
+Z9139,Pump Test
+Z9140,Cir_Pump Test
+Z9141,Mist Test
+Z9142,Clutch Test
+Z9143,Washer Heater Test
+Z9144,Door lock Test
+Z9145,Door Unlock Test
+Z9146,MEMS X SELF
+Z9147,MEMS Y SELF
+Z9148,MEMS Z SELF
+Z9149,MEMS X NORMAL
+Z9150,MEMS Y NORAML
+Z9151,MEMS Z NORAML
+Z9152,AC Check
+Z9153,Door Lock Check
+Z9154,Door Open Sensing 1
+Z9155,Power Button Input Sensing
+Z9156,Inv Rx H
+Z9157,Main Rx H
+Z9158,Inv Rx L
+Z9159,Main Rx L
+Z9160,HALL Sensor A
+Z9161,HALL Sensor B
+Z9162,IPM fault Test
+Z9163,IPM temp Test
+Z9164,AD U check
+Z9165,AD V check
+Z9166,AD W check
+Z9167,U Volt check
+Z9168,V Volt check
+Z9169,W Volt check
+Z9170,U Current Check
+Z9171,V Current Check
+Z9172,W Current Check
+Z9173,U/V Check
+Z9174,V/W Check
+Z9175,MOTOR SENSOR AD Check
+Z9176,Communication mode
+Z9177,Calculation mode
+Z9181,Motor BEMF UV
+Z9182,Motor BEMF VW
+Z9183,Motor BEMF WU
+Z9185,vacuum test
+Z9186,Hass Wifi Pairing
+Z9187,[VR]Gap (Follow approval sheet)
+Z9188,[VR]Battery output voltage
+Z9189,[VR]Suction RPM
+Z9190,[VR]Drum Brush RPM(1215~1450)
+Z9191,[VR]Wheel RPM (270~330)
+Z9192,[VR95]LiDAR front left (200~300mm)
+Z9193,[VR95]LiDAR front right (350~450mm)
+Z9194,[VR95]Wall following L/R Side (20~60mm)
+Z9195,[VR95]Wall following Diagonal L/R (80~130mm)
+Z9196,[VR]Object ID (28~75mm)
+Z9197,[VR85]LiDAR Front Left(80~100mm)
+Z9198,[VR85]LiDAR Front Right(70~100mm)
+Z9199,[VR85]Wall following(15~50mm)
+Z9200,[VR85]Side brush(10~60rpm)
+Z9201,INLAY attachment (No take off/ Screen/ Vinyl etc.)
+Z9202,Baterry pack IR
+Z9203, Adhesion 25kg.f/cm2
+Z9204, Adhesion 10kg.f/cm2
+Z9205,WM Tube Beading Vision
+Z9206,WM Tube Beading Width
